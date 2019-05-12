@@ -1,0 +1,4 @@
+F:\ATL数据采集\ATLIFactoryData\ATLPLCOperate\bin\Debug\ATLPLCOperate.dll
+F:\ATL数据采集\ATLIFactoryData\ATLPLCOperate\bin\Debug\ATLPLCOperate.pdb
+F:\ATL数据采集\ATLIFactoryData\ATLPLCOperate\obj\Debug\ATLPLCOperate.dll
+F:\ATL数据采集\ATLIFactoryData\ATLPLCOperate\obj\Debug\ATLPLCOperate.pdb

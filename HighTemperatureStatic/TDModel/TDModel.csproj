@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DBF75BEC-0FF5-4866-8830-F8ADC6AE9EF4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TDModel</RootNamespace>
+    <AssemblyName>TDModel</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PagedList">
+      <HintPath>..\DocLibs\PagedList.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TengDa.DataAccess">
+      <HintPath>..\TDWpfApp\DLL\TengDa.DataAccess.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alarm\AlarmFieldValue.cs" />
+    <Compile Include="Alarm\AlarmHistoryAlarmModel.cs" />
+    <Compile Include="Alarm\AlarmLocationImageModel.cs" />
+    <Compile Include="Alarm\AlarmRuleModel.cs" />
+    <Compile Include="Alarm\AlarmSolutionModel.cs" />
+    <Compile Include="Alarm\AlarmSolutionImageModel.cs" />
+    <Compile Include="Alarm\AlarmTemporaryModel.cs" />
+    <Compile Include="Alarm\AlarmTypeModel.cs" />
+    <Compile Include="Alarm\AlarmUnitModel.cs" />
+    <Compile Include="Alarm\Views\View_GetHistoryAlarmModel.cs" />
+    <Compile Include="Alarm\Views\View_GetTemporariesAlarmModel.cs" />
+    <Compile Include="ApiModel.cs" />
+    <Compile Include="ApiResultModel.cs" />
+    <Compile Include="BaseModel.cs" />
+    <Compile Include="ChuckingModel.cs" />
+    <Compile Include="FieldRow.cs" />
+    <Compile Include="HT\HighTemperatureDetailModel.cs" />
+    <Compile Include="HT\HighTemperatureMainModel.cs" />
+    <Compile Include="HT\HtmAndHtdAndCaiModel.cs" />
+    <Compile Include="HT\HtmAndHtdModel.cs" />
+    <Compile Include="Permissions\PermissionsModel.cs" />
+    <Compile Include="PLCInfoModel.cs" />
+    <Compile Include="Prodect\ProduceDataModel.cs" />
+    <Compile Include="Product\CellInfoModel.cs" />
+    <Compile Include="Product\ChuckingApplianceInfoModel.cs" />
+    <Compile Include="Product\FixtureControlModel.cs" />
+    <Compile Include="Product\ProductionCuveModel.cs" />
+    <Compile Include="Product\Views\View_GetCellInfoModel.cs" />
+    <Compile Include="Product\Views\View_GetFixtureInfoModel.cs" />
+    <Compile Include="RgvTaskModel.cs" />
+    <Compile Include="RunCalendar\RunCalendarModel.cs" />
+    <Compile Include="UiModel\MenuNode.cs" />
+    <Compile Include="UiModel\PagedData.cs" />
+    <Compile Include="UiModel\PageNumberChangedEventArgs.cs" />
+    <Compile Include="UiModel\RouteCommand.cs" />
+    <Compile Include="UserManage\RolesModel.cs" />
+    <Compile Include="UserManage\UsersModel.cs" />
+    <Compile Include="ViewModelBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XmlModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

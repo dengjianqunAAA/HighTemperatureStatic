@@ -1,0 +1,130 @@
+E:\NDXNY2019\TDWebApi\bin\Debug\TDWebApi.dll
+E:\NDXNY2019\TDWebApi\bin\Debug\TDWebApi.pdb
+E:\NDXNY2019\TDWebApi\bin\Debug\Newtonsoft.Json.dll
+E:\NDXNY2019\TDWebApi\bin\Debug\System.Net.Http.Formatting.dll
+E:\NDXNY2019\TDWebApi\bin\Debug\Newtonsoft.Json.pdb
+E:\NDXNY2019\TDWebApi\bin\Debug\Newtonsoft.Json.xml
+E:\NDXNY2019\TDWebApi\obj\Debug\TDWebApi.csprojResolveAssemblyReference.cache
+E:\NDXNY2019\TDWebApi\obj\Debug\TDWebApi.dll
+E:\NDXNY2019\TDWebApi\obj\Debug\TDWebApi.pdb
+E:\20190103NDXNY\TDWebApi\bin\Debug\TDWebApi.dll
+E:\20190103NDXNY\TDWebApi\bin\Debug\TDWebApi.pdb
+E:\20190103NDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.dll
+E:\20190103NDXNY\TDWebApi\bin\Debug\System.Net.Http.Formatting.dll
+E:\20190103NDXNY\TDWebApi\bin\Debug\TDCommon.dll
+E:\20190103NDXNY\TDWebApi\bin\Debug\OmronPLC.dll
+E:\20190103NDXNY\TDWebApi\bin\Debug\NLog.dll
+E:\20190103NDXNY\TDWebApi\bin\Debug\TDCommon.pdb
+E:\20190103NDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.pdb
+E:\20190103NDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.xml
+E:\20190103NDXNY\TDWebApi\obj\Debug\TDWebApi.csprojResolveAssemblyReference.cache
+E:\20190103NDXNY\TDWebApi\obj\Debug\TDWebApi.dll
+E:\20190103NDXNY\TDWebApi\obj\Debug\TDWebApi.pdb
+D:\腾达\CATL高温常温\客户端\TDWebApi\bin\Debug\TDWebApi.dll
+D:\腾达\CATL高温常温\客户端\TDWebApi\bin\Debug\TDWebApi.pdb
+D:\腾达\CATL高温常温\客户端\TDWebApi\bin\Debug\Newtonsoft.Json.dll
+D:\腾达\CATL高温常温\客户端\TDWebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\腾达\CATL高温常温\客户端\TDWebApi\bin\Debug\TDCommon.dll
+D:\腾达\CATL高温常温\客户端\TDWebApi\bin\Debug\OmronPLC.dll
+D:\腾达\CATL高温常温\客户端\TDWebApi\bin\Debug\NLog.dll
+D:\腾达\CATL高温常温\客户端\TDWebApi\bin\Debug\TDCommon.pdb
+D:\腾达\CATL高温常温\客户端\TDWebApi\bin\Debug\Newtonsoft.Json.pdb
+D:\腾达\CATL高温常温\客户端\TDWebApi\bin\Debug\Newtonsoft.Json.xml
+D:\腾达\CATL高温常温\客户端\TDWebApi\obj\Debug\TDWebApi.csprojResolveAssemblyReference.cache
+D:\腾达\CATL高温常温\客户端\TDWebApi\obj\Debug\TDWebApi.dll
+D:\腾达\CATL高温常温\客户端\TDWebApi\obj\Debug\TDWebApi.pdb
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\bin\Debug\TDWebApi.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\bin\Debug\TDWebApi.pdb
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\bin\Debug\TDCommon.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\bin\Debug\OmronPLC.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\bin\Debug\NLog.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\bin\Debug\TDCommon.pdb
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\obj\Debug\TDWebApi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\obj\Debug\TDWebApi.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDWebApi\obj\Debug\TDWebApi.pdb
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\TDWebApi.dll
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\TDWebApi.pdb
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.dll
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\System.Net.Http.Formatting.dll
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\TDCommon.dll
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\TDModel.dll
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\NLog.dll
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\TengDa.DataAccess.dll
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\PagedList.dll
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\MySql.Data.dll
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\TDCommon.pdb
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\TDModel.pdb
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.xml
+E:\Project\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.csprojResolveAssemblyReference.cache
+E:\Project\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.dll
+E:\Project\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.pdb
+E:\Project\NewNDXNY\TDWebApi\bin\Debug\NLog.config
+E:\NewNDXNY\TDWebApi\bin\Debug\NLog.config
+E:\NewNDXNY\TDWebApi\bin\Debug\TDWebApi.dll
+E:\NewNDXNY\TDWebApi\bin\Debug\TDWebApi.pdb
+E:\NewNDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.dll
+E:\NewNDXNY\TDWebApi\bin\Debug\System.Net.Http.Formatting.dll
+E:\NewNDXNY\TDWebApi\bin\Debug\TDCommon.dll
+E:\NewNDXNY\TDWebApi\bin\Debug\TDModel.dll
+E:\NewNDXNY\TDWebApi\bin\Debug\NLog.dll
+E:\NewNDXNY\TDWebApi\bin\Debug\TengDa.DataAccess.dll
+E:\NewNDXNY\TDWebApi\bin\Debug\PagedList.dll
+E:\NewNDXNY\TDWebApi\bin\Debug\MySql.Data.dll
+E:\NewNDXNY\TDWebApi\bin\Debug\TDCommon.pdb
+E:\NewNDXNY\TDWebApi\bin\Debug\TDModel.pdb
+E:\NewNDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.xml
+E:\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.csprojResolveAssemblyReference.cache
+E:\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.dll
+E:\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.pdb
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\TDWebApi.dll
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\TDWebApi.pdb
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.dll
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\System.Net.Http.Formatting.dll
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\TDCommon.dll
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\TDModel.dll
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\NLog.dll
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\TengDa.DataAccess.dll
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\PagedList.dll
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\MySql.Data.dll
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\TDCommon.pdb
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\TDModel.pdb
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.xml
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.csprojResolveAssemblyReference.cache
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.dll
+E:\宁德新能源2019\project\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\TDWebApi.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\TDWebApi.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\System.Net.Http.Formatting.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\TDCommon.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\TDModel.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\NLog.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\TengDa.DataAccess.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\PagedList.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\MySql.Data.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\TDCommon.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\TDModel.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\Newtonsoft.Json.xml
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.csprojResolveAssemblyReference.cache
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\obj\Debug\TDWebApi.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TDWebApi\bin\Debug\NLog.config
+D:\高温静置\TDWebApi\bin\Debug\TDWebApi.dll
+D:\高温静置\TDWebApi\bin\Debug\TDWebApi.pdb
+D:\高温静置\TDWebApi\bin\Debug\Newtonsoft.Json.dll
+D:\高温静置\TDWebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\高温静置\TDWebApi\bin\Debug\TDCommon.dll
+D:\高温静置\TDWebApi\bin\Debug\TDModel.dll
+D:\高温静置\TDWebApi\bin\Debug\NLog.dll
+D:\高温静置\TDWebApi\bin\Debug\TengDa.DataAccess.dll
+D:\高温静置\TDWebApi\bin\Debug\PagedList.dll
+D:\高温静置\TDWebApi\bin\Debug\MySql.Data.dll
+D:\高温静置\TDWebApi\bin\Debug\TDCommon.pdb
+D:\高温静置\TDWebApi\bin\Debug\TDModel.pdb
+D:\高温静置\TDWebApi\bin\Debug\Newtonsoft.Json.xml
+D:\高温静置\TDWebApi\obj\Debug\TDWebApi.csprojResolveAssemblyReference.cache
+D:\高温静置\TDWebApi\obj\Debug\TDWebApi.dll
+D:\高温静置\TDWebApi\obj\Debug\TDWebApi.pdb

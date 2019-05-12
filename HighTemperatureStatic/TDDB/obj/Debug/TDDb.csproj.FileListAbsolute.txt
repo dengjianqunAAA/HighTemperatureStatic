@@ -1,0 +1,95 @@
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TDDb\obj\Debug\TDDb.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TDDb\bin\Debug\TDDb.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TDDb\bin\Debug\TDDb.pdb
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TDDb\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TDDb\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TDDb\obj\Debug\TDDb.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TDDb\obj\Debug\TDDb.pdb
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TDDB\bin\Debug\TDModel.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TDDB\bin\Debug\PagedList.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TDDB\bin\Debug\TDModel.pdb
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\bin\Debug\TDDB.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\bin\Debug\TDDB.pdb
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\bin\Debug\TDModel.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\bin\Debug\PagedList.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\bin\Debug\TDModel.pdb
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\obj\Debug\TDDB.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\obj\Debug\TDDB.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TDDB\obj\Debug\TDDB.pdb
+E:\Project\NewNDXNY\TDDB\bin\Debug\TDDB.dll.config
+E:\Project\NewNDXNY\TDDB\bin\Debug\TDDB.dll
+E:\Project\NewNDXNY\TDDB\bin\Debug\TDDB.pdb
+E:\Project\NewNDXNY\TDDB\bin\Debug\Newtonsoft.Json.dll
+E:\Project\NewNDXNY\TDDB\bin\Debug\TDCommon.dll
+E:\Project\NewNDXNY\TDDB\bin\Debug\TDModel.dll
+E:\Project\NewNDXNY\TDDB\bin\Debug\NLog.dll
+E:\Project\NewNDXNY\TDDB\bin\Debug\PagedList.dll
+E:\Project\NewNDXNY\TDDB\bin\Debug\TDCommon.pdb
+E:\Project\NewNDXNY\TDDB\bin\Debug\TDModel.pdb
+E:\Project\NewNDXNY\TDDB\bin\Debug\Newtonsoft.Json.xml
+E:\Project\NewNDXNY\TDDB\obj\Debug\TDDB.csprojResolveAssemblyReference.cache
+E:\Project\NewNDXNY\TDDB\obj\Debug\TDDB.dll
+E:\Project\NewNDXNY\TDDB\obj\Debug\TDDB.pdb
+E:\Project\NewNDXNY\TDDB\bin\Debug\NLog.config
+E:\NewNDXNY\TDDB\bin\Debug\TDDB.dll.config
+E:\NewNDXNY\TDDB\bin\Debug\TDDB.dll
+E:\NewNDXNY\TDDB\bin\Debug\TDDB.pdb
+E:\NewNDXNY\TDDB\bin\Debug\Newtonsoft.Json.dll
+E:\NewNDXNY\TDDB\bin\Debug\TDCommon.dll
+E:\NewNDXNY\TDDB\bin\Debug\TDModel.dll
+E:\NewNDXNY\TDDB\bin\Debug\NLog.dll
+E:\NewNDXNY\TDDB\bin\Debug\PagedList.dll
+E:\NewNDXNY\TDDB\bin\Debug\TDCommon.pdb
+E:\NewNDXNY\TDDB\bin\Debug\TDModel.pdb
+E:\NewNDXNY\TDDB\bin\Debug\Newtonsoft.Json.xml
+E:\NewNDXNY\TDDB\obj\Debug\TDDB.csprojResolveAssemblyReference.cache
+E:\NewNDXNY\TDDB\obj\Debug\TDDB.dll
+E:\NewNDXNY\TDDB\obj\Debug\TDDB.pdb
+E:\NewNDXNY\TDDB\bin\Debug\NLog.config
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\TDDB.dll.config
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\TDDB.dll
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\TDDB.pdb
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\Newtonsoft.Json.dll
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\TDCommon.dll
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\TDModel.dll
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\NLog.dll
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\PagedList.dll
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\TDCommon.pdb
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\TDModel.pdb
+E:\宁德新能源2019\project\NewNDXNY\TDDB\bin\Debug\Newtonsoft.Json.xml
+E:\宁德新能源2019\project\NewNDXNY\TDDB\obj\Debug\TDDB.csprojResolveAssemblyReference.cache
+E:\宁德新能源2019\project\NewNDXNY\TDDB\obj\Debug\TDDB.dll
+E:\宁德新能源2019\project\NewNDXNY\TDDB\obj\Debug\TDDB.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\TDDB.dll.config
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\TDDB.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\TDDB.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\Newtonsoft.Json.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\TDCommon.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\TDModel.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\NLog.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\PagedList.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\TDCommon.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\TDModel.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\Newtonsoft.Json.xml
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\obj\Debug\TDDB.csprojResolveAssemblyReference.cache
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\obj\Debug\TDDB.dll
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\obj\Debug\TDDB.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TDDB\bin\Debug\NLog.config
+D:\高温静置\TDDB\bin\Debug\TDDB.dll.config
+D:\高温静置\TDDB\bin\Debug\TDDB.dll
+D:\高温静置\TDDB\bin\Debug\TDDB.pdb
+D:\高温静置\TDDB\bin\Debug\Newtonsoft.Json.dll
+D:\高温静置\TDDB\bin\Debug\TDCommon.dll
+D:\高温静置\TDDB\bin\Debug\TDModel.dll
+D:\高温静置\TDDB\bin\Debug\NLog.dll
+D:\高温静置\TDDB\bin\Debug\PagedList.dll
+D:\高温静置\TDDB\bin\Debug\TDCommon.pdb
+D:\高温静置\TDDB\bin\Debug\TDModel.pdb
+D:\高温静置\TDDB\bin\Debug\Newtonsoft.Json.xml
+D:\高温静置\TDDB\obj\Debug\TDDB.csprojResolveAssemblyReference.cache
+D:\高温静置\TDDB\obj\Debug\TDDB.dll
+D:\高温静置\TDDB\obj\Debug\TDDB.pdb

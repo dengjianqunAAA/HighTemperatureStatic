@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="TDUserControl.ProgressBarControl"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+            xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+            mc:Ignorable="d"  Height="13.021" Width="618.345">
+    <FrameworkElement.Resources>
+        <Style TargetType="{x:Type ProgressBar}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type ProgressBar}">
+                        <Grid MinHeight="14" MinWidth="200">
+                            <Border  Name="PART_Track" CornerRadius="20" BorderBrush="Black"  
+            BorderThickness="0" Background="#FF1085FB" />
+                            <Border  x:Name="PART_Indicator"  CornerRadius="16"   BorderBrush="Red" BorderThickness="0" HorizontalAlignment="Left" >
+                                <Border.Background>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <!--<GradientStop Color="Orange" Offset="0"/>
+                                        <GradientStop Color="Yellow" Offset="0.5"/>-->
+                                        <GradientStop Color="#5EE2F9" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </Border.Background>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </FrameworkElement.Resources>
+    <ProgressBar x:Name="MyProgressBar"  Background="#FF1085FB" BorderBrush="Transparent"  Maximum="100" Minimum="0"/>
+</UserControl>

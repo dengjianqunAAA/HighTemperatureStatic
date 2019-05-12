@@ -1,0 +1,1256 @@
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\TengDaWebApi.dll.config
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\TengDaWebApi.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\TengDaWebApi.pdb
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Owin.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Owin.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Owin.xml
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\obj\Debug\TengDaWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\obj\Debug\TengDaWebApi.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\obj\Debug\TengDaWebApi.pdb
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Cors.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Administrator\Desktop\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Cors.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\obj\Debug\TengDaWebApi.csprojResolveAssemblyReference.cache
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\obj\Debug\TengDaWebApi.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\obj\Debug\TengDaWebApi.pdb
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\ApplicationInsights.config
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\csc.exe
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\vbc.exe
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\VBCSCompiler.exe
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\TengDaWebApi.dll.config
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\TengDaWebApi.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\TengDaWebApi.pdb
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Antlr3.Runtime.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\EntityFramework.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\EntityFramework.SqlServer.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.Web.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Newtonsoft.Json.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Owin.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Net.Http.Formatting.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Cors.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Helpers.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Cors.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Owin.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.WebHost.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Mvc.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Optimization.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Razor.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Razor.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\WebGrease.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.Web.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Net.Http.Formatting.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Cors.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Newtonsoft.Json.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Helpers.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.WebHost.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Mvc.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Optimization.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Razor.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Razor.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Antlr3.Runtime.pdb
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\EntityFramework.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\EntityFramework.SqlServer.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Owin.xml
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Http.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\EntityFramework.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\c#\新建文件夹\赵工\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\obj\Debug\TengDaWebApi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\obj\Debug\TengDaWebApi.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\obj\Debug\TengDaWebApi.pdb
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\ApplicationInsights.config
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\TengDaWebApi.dll.config
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\TengDaWebApi.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\TengDaWebApi.pdb
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Owin.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Cors.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Owin.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\TDDB.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\TDModel.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\WebGrease.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Autofac.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\TengDa.DataAccess.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\PagedList.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\MySql.Data.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\TDDB.pdb
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\TDModel.pdb
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\System.Web.Http.Owin.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\MySql.Data.xml
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\DELL\Desktop\NDXNY\TengDaWebApi\TengDaWebApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\ApplicationInsights.config
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\TengDaWebApi.dll.config
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\TengDaWebApi.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\TengDaWebApi.pdb
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Owin.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Cors.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Http.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Http.Owin.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\TDDB.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\TDModel.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\WebGrease.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Autofac.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\TengDa.DataAccess.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\PagedList.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\MySql.Data.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\TDDB.pdb
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\TDModel.pdb
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Http.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\System.Web.Http.Owin.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\MySql.Data.xml
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\obj\Debug\TengDaWebApi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\obj\Debug\TengDaWebApi.dll
+C:\Users\DELL\Desktop\新建文件夹 (3)\服务端\TengDaWebApi\obj\Debug\TengDaWebApi.pdb
+E:\Project\NewNDXNY\TengDaWebApi\bin\NLog.config
+E:\Project\NewNDXNY\TengDaWebApi\bin\ApplicationInsights.config
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\csc.exe
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\vbc.exe
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\VBCSCompiler.exe
+E:\Project\NewNDXNY\TengDaWebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Project\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.dll.config
+E:\Project\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.pdb
+E:\Project\NewNDXNY\TengDaWebApi\bin\Antlr3.Runtime.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\EntityFramework.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\EntityFramework.SqlServer.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Web.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.ApplicationInsights.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Newtonsoft.Json.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\NLog.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Owin.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Net.Http.Formatting.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Cors.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Helpers.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Cors.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Owin.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.WebHost.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Mvc.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Optimization.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Razor.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Deployment.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Razor.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\TDCommon.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\TDDB.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\TDModel.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\TengDa.DataAccess.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\WebGrease.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\Autofac.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\PagedList.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\MySql.Data.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\TDCommon.pdb
+E:\Project\NewNDXNY\TengDaWebApi\bin\TDDB.pdb
+E:\Project\NewNDXNY\TengDaWebApi\bin\TDModel.pdb
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Web.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.ApplicationInsights.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\NLog.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Net.Http.Formatting.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Cors.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Newtonsoft.Json.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Helpers.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.WebHost.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Mvc.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Optimization.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Razor.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Deployment.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Razor.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Antlr3.Runtime.pdb
+E:\Project\NewNDXNY\TengDaWebApi\bin\EntityFramework.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\EntityFramework.SqlServer.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Owin.xml
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\EntityFramework.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\Project\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.csprojResolveAssemblyReference.cache
+E:\Project\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.dll
+E:\Project\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.pdb
+E:\NewNDXNY\TengDaWebApi\bin\ApplicationInsights.config
+E:\NewNDXNY\TengDaWebApi\bin\NLog.config
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\csc.exe
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\vbc.exe
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\VBCSCompiler.exe
+E:\NewNDXNY\TengDaWebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.dll.config
+E:\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.dll
+E:\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.pdb
+E:\NewNDXNY\TengDaWebApi\bin\Antlr3.Runtime.dll
+E:\NewNDXNY\TengDaWebApi\bin\EntityFramework.dll
+E:\NewNDXNY\TengDaWebApi\bin\EntityFramework.SqlServer.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Web.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.ApplicationInsights.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\NewNDXNY\TengDaWebApi\bin\Newtonsoft.Json.dll
+E:\NewNDXNY\TengDaWebApi\bin\NLog.dll
+E:\NewNDXNY\TengDaWebApi\bin\Owin.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Net.Http.Formatting.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Cors.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Helpers.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Cors.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Http.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Owin.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Http.WebHost.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Mvc.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Optimization.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Razor.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Deployment.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.dll
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Razor.dll
+E:\NewNDXNY\TengDaWebApi\bin\TDCommon.dll
+E:\NewNDXNY\TengDaWebApi\bin\TDDB.dll
+E:\NewNDXNY\TengDaWebApi\bin\TDModel.dll
+E:\NewNDXNY\TengDaWebApi\bin\TengDa.DataAccess.dll
+E:\NewNDXNY\TengDaWebApi\bin\WebGrease.dll
+E:\NewNDXNY\TengDaWebApi\bin\Autofac.dll
+E:\NewNDXNY\TengDaWebApi\bin\PagedList.dll
+E:\NewNDXNY\TengDaWebApi\bin\MySql.Data.dll
+E:\NewNDXNY\TengDaWebApi\bin\TDCommon.pdb
+E:\NewNDXNY\TengDaWebApi\bin\TDDB.pdb
+E:\NewNDXNY\TengDaWebApi\bin\TDModel.pdb
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Web.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.ApplicationInsights.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\NewNDXNY\TengDaWebApi\bin\NLog.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Net.Http.Formatting.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Http.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Cors.xml
+E:\NewNDXNY\TengDaWebApi\bin\Newtonsoft.Json.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Helpers.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Http.WebHost.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Mvc.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Optimization.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Razor.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Deployment.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Razor.xml
+E:\NewNDXNY\TengDaWebApi\bin\Antlr3.Runtime.pdb
+E:\NewNDXNY\TengDaWebApi\bin\EntityFramework.xml
+E:\NewNDXNY\TengDaWebApi\bin\EntityFramework.SqlServer.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Owin.xml
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\EntityFramework.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.csprojResolveAssemblyReference.cache
+E:\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.dll
+E:\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.pdb
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\ApplicationInsights.config
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\NLog.config
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\csc.exe
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\vbc.exe
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\VBCSCompiler.exe
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.dll.config
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.pdb
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Antlr3.Runtime.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\EntityFramework.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\EntityFramework.SqlServer.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Web.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.ApplicationInsights.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Newtonsoft.Json.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\NLog.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Owin.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Net.Http.Formatting.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Cors.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Helpers.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Cors.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Owin.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.WebHost.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Mvc.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Optimization.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Razor.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Deployment.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Razor.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\TDCommon.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\TDDB.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\TDModel.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\TengDa.DataAccess.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\WebGrease.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Autofac.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\PagedList.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\MySql.Data.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\TDCommon.pdb
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\TDDB.pdb
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\TDModel.pdb
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Web.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.ApplicationInsights.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\NLog.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Net.Http.Formatting.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Cors.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Newtonsoft.Json.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Helpers.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.WebHost.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Mvc.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Optimization.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Razor.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Deployment.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Razor.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Antlr3.Runtime.pdb
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\EntityFramework.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\EntityFramework.SqlServer.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Owin.xml
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\EntityFramework.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.csprojResolveAssemblyReference.cache
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.dll
+E:\宁德新能源2019\project\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\NLog.config
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\ApplicationInsights.config
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\csc.exe
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\vbc.exe
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\VBCSCompiler.exe
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.dll.config
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Antlr3.Runtime.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\EntityFramework.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\EntityFramework.SqlServer.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Web.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.ApplicationInsights.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Newtonsoft.Json.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\NLog.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Owin.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Net.Http.Formatting.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Cors.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Helpers.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Cors.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Http.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Owin.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Http.WebHost.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Mvc.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Optimization.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Razor.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Deployment.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Razor.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\TDCommon.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\TDDB.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\TDModel.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\TengDa.DataAccess.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\WebGrease.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Autofac.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\PagedList.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\MySql.Data.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\TDCommon.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\TDDB.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\TDModel.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Web.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.ApplicationInsights.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\NLog.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Net.Http.Formatting.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Http.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Cors.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Newtonsoft.Json.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Helpers.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Http.WebHost.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Mvc.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Optimization.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Razor.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Deployment.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Razor.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Antlr3.Runtime.pdb
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\EntityFramework.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\EntityFramework.SqlServer.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Owin.xml
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\EntityFramework.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.csprojResolveAssemblyReference.cache
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.dll
+E:\宁德新能源2019\高温\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.pdb
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\ApplicationInsights.config
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\NLog.config
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\csc.exe
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\vbc.exe
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\VBCSCompiler.exe
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.dll.config
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\TengDaWebApi.pdb
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Antlr3.Runtime.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\EntityFramework.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\EntityFramework.SqlServer.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Web.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.ApplicationInsights.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Google.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Newtonsoft.Json.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\NLog.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Owin.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Net.Http.Formatting.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Cors.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Helpers.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Cors.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Http.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Owin.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Http.WebHost.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Mvc.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Optimization.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Razor.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Deployment.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Razor.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\TDCommon.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\TDDB.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\TDModel.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\TengDa.DataAccess.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\WebGrease.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Autofac.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\PagedList.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\MySql.Data.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\TDCommon.pdb
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\TDDB.pdb
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\TDModel.pdb
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.Web.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.ApplicationInsights.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\NLog.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Net.Http.Formatting.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Http.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Cors.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Newtonsoft.Json.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Helpers.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Http.WebHost.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Mvc.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Optimization.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Razor.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Deployment.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.WebPages.Razor.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Antlr3.Runtime.pdb
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\EntityFramework.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\EntityFramework.SqlServer.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Google.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\System.Web.Http.Owin.xml
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\EntityFramework.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.csprojResolveAssemblyReference.cache
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.dll
+E:\宁德新能源2019\高温静置\NewNDXNY\TengDaWebApi\obj\Debug\TengDaWebApi.pdb
+D:\高温静置\TengDaWebApi\bin\NLog.config
+D:\高温静置\TengDaWebApi\bin\ApplicationInsights.config
+D:\高温静置\TengDaWebApi\bin\roslyn\csc.exe
+D:\高温静置\TengDaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\高温静置\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\高温静置\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\高温静置\TengDaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\高温静置\TengDaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\高温静置\TengDaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\高温静置\TengDaWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\高温静置\TengDaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\高温静置\TengDaWebApi\bin\roslyn\vbc.exe
+D:\高温静置\TengDaWebApi\bin\roslyn\VBCSCompiler.exe
+D:\高温静置\TengDaWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\高温静置\TengDaWebApi\bin\TengDaWebApi.dll.config
+D:\高温静置\TengDaWebApi\bin\TengDaWebApi.dll
+D:\高温静置\TengDaWebApi\bin\TengDaWebApi.pdb
+D:\高温静置\TengDaWebApi\bin\Antlr3.Runtime.dll
+D:\高温静置\TengDaWebApi\bin\EntityFramework.dll
+D:\高温静置\TengDaWebApi\bin\EntityFramework.SqlServer.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.AI.Web.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\高温静置\TengDaWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\高温静置\TengDaWebApi\bin\Newtonsoft.Json.dll
+D:\高温静置\TengDaWebApi\bin\NLog.dll
+D:\高温静置\TengDaWebApi\bin\Owin.dll
+D:\高温静置\TengDaWebApi\bin\System.Net.Http.Formatting.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.Cors.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.Helpers.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.Http.Cors.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.Http.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.Http.Owin.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.Http.WebHost.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.Mvc.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.Optimization.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.Razor.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.WebPages.dll
+D:\高温静置\TengDaWebApi\bin\System.Web.WebPages.Razor.dll
+D:\高温静置\TengDaWebApi\bin\TDCommon.dll
+D:\高温静置\TengDaWebApi\bin\TDDB.dll
+D:\高温静置\TengDaWebApi\bin\TDModel.dll
+D:\高温静置\TengDaWebApi\bin\TengDa.DataAccess.dll
+D:\高温静置\TengDaWebApi\bin\WebGrease.dll
+D:\高温静置\TengDaWebApi\bin\Autofac.dll
+D:\高温静置\TengDaWebApi\bin\PagedList.dll
+D:\高温静置\TengDaWebApi\bin\MySql.Data.dll
+D:\高温静置\TengDaWebApi\bin\TDCommon.pdb
+D:\高温静置\TengDaWebApi\bin\TDDB.pdb
+D:\高温静置\TengDaWebApi\bin\TDModel.pdb
+D:\高温静置\TengDaWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.AI.Web.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\高温静置\TengDaWebApi\bin\NLog.xml
+D:\高温静置\TengDaWebApi\bin\System.Net.Http.Formatting.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.Http.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.Http.Cors.xml
+D:\高温静置\TengDaWebApi\bin\Newtonsoft.Json.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.Helpers.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.Http.WebHost.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.Mvc.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.Optimization.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.Razor.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.WebPages.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.WebPages.Razor.xml
+D:\高温静置\TengDaWebApi\bin\Antlr3.Runtime.pdb
+D:\高温静置\TengDaWebApi\bin\EntityFramework.xml
+D:\高温静置\TengDaWebApi\bin\EntityFramework.SqlServer.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\高温静置\TengDaWebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\高温静置\TengDaWebApi\bin\System.Web.Http.Owin.xml
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Web.Http.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\EntityFramework.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\高温静置\TengDaWebApi\bin\zh-Hans\System.Web.Http.Owin.resources.dll
+D:\高温静置\TengDaWebApi\obj\Debug\TengDaWebApi.csprojResolveAssemblyReference.cache
+D:\高温静置\TengDaWebApi\obj\Debug\TengDaWebApi.dll
+D:\高温静置\TengDaWebApi\obj\Debug\TengDaWebApi.pdb

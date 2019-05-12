@@ -1,0 +1,42 @@
+2019-05-11 14:00:37.2870 | 添加电芯记录异常：接收数据：{"CellInfoId":22,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 14:06:46.9634 | 添加电芯记录异常：接收数据：{"CellInfoId":25,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 14:07:02.9473 | 添加电芯记录异常：接收数据：{"CellInfoId":5,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 14:39:09.1962 | 添加电芯记录异常：接收数据：{"CellInfoId":2,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 14:39:16.1491 | 添加电芯记录异常：接收数据：{"CellInfoId":4,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 14:52:27.0629 | 添加电芯记录异常：接收数据：{"CellInfoId":24,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 14:52:36.7605 | 添加电芯记录异常：接收数据：{"CellInfoId":27,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 14:57:31.2208 | 添加电芯记录异常：接收数据：{"CellInfoId":23,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 15:01:20.7920 | 添加电芯记录异常：接收数据：{"CellInfoId":6,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 16:31:00.4201 | 添加电芯记录异常：接收数据：{"CellInfoId":37,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 16:35:45.0705 | 添加电芯记录异常：接收数据：{"CellInfoId":6,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 17:06:38.1447 | 添加电芯记录异常：接收数据：{"CellInfoId":22,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 17:06:45.5976 | 添加电芯记录异常：接收数据：{"CellInfoId":5,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 
+2019-05-11 17:07:09.4093 | 添加电芯记录异常：接收数据：{"CellInfoId":25,"BarCode":null,"CAId":0,"CellPosition":0,"CellScanTime":null,"OverTime":null,"Marking":null,"State":10,"Remark2":null}
+ 异常信息：ExecuteNonQuery: CommandText 属性尚未初始化 
+ 

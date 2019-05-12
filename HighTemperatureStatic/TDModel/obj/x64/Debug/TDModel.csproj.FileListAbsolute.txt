@@ -1,0 +1,10 @@
+E:\共享文件夹\STF04\TDWpfApp\TDModel\bin\x64\Debug\TDModel.dll
+E:\共享文件夹\STF04\TDWpfApp\TDModel\bin\x64\Debug\TDModel.pdb
+E:\共享文件夹\STF04\TDWpfApp\TDModel\bin\x64\Debug\Newtonsoft.Json.dll
+E:\共享文件夹\STF04\TDWpfApp\TDModel\bin\x64\Debug\PagedList.dll
+E:\共享文件夹\STF04\TDWpfApp\TDModel\bin\x64\Debug\Newtonsoft.Json.xml
+E:\共享文件夹\STF04\TDWpfApp\TDModel\obj\x64\Debug\TDModel.dll
+E:\共享文件夹\STF04\TDWpfApp\TDModel\obj\x64\Debug\TDModel.pdb
+E:\共享文件夹\STF04\TDWpfApp\TDModel\obj\x64\Debug\TDModel.csprojAssemblyReference.cache
+E:\共享文件夹\STF04\TDWpfApp\TDModel\obj\x64\Debug\TDModel.csproj.CoreCompileInputs.cache
+E:\共享文件夹\STF04\TDWpfApp\TDModel\obj\x64\Debug\TDModel.csproj.CopyComplete

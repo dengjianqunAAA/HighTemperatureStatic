@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\NUnit.3.11.0\build\NUnit.props" Condition="Exists('..\packages\NUnit.3.11.0\build\NUnit.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7B49B418-8BCC-4AA0-A7F4-A6DB170B8105}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TDUserControl</RootNamespace>
+    <AssemblyName>TDUserControl</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Expression.Drawing">
+      <HintPath>bin\Debug\Microsoft.Expression.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=3.11.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.3.11.0\lib\net45\nunit.framework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PagedList">
+      <HintPath>..\DocLibs\PagedList.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BasePage.cs" />
+    <Compile Include="DialogBackground.xaml.cs" />
+    <Compile Include="LineProbably.xaml.cs" />
+    <Compile Include="OvenView.xaml.cs">
+      <DependentUpon>OvenView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pager.xaml.cs">
+      <DependentUpon>Pager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PlaceholderTextBox.cs" />
+    <Compile Include="PLCList.xaml.cs" />
+    <Compile Include="ProgressBarControl.xaml.cs">
+      <DependentUpon>ProgressBarControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SmallPager.xaml.cs">
+      <DependentUpon>SmallPager.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Standby.xaml.cs">
+      <DependentUpon>Standby.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StateCycle.xaml.cs">
+      <DependentUpon>StateCycle.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TabControl1.xaml.cs">
+      <DependentUpon>TabControl1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl2.xaml.cs">
+      <DependentUpon>UserControl2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ValueConvert\VCBtnStyleChanged.cs" />
+    <Compile Include="ValueConvert\VCIsShowConvertName.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\plc_circle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="DialogBackground.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LineProbably.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="OvenView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pager.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PLCList.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ProgressBarControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SmallPager.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Standby.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StateCycle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TabControl1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Themes\ButtonStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Themes\ContextMenuStyle.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UserControl2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\alarm_panel.png" />
+    <Content Include="assets\battery.png" />
+    <Content Include="assets\btncraftdetails.png" />
+    <Content Include="assets\calendar.png" />
+    <Resource Include="assets\coldStandby.png" />
+    <Content Include="assets\datacapacity.png" />
+    <Resource Include="assets\dialog_bg.png" />
+    <Resource Include="assets\dialog_body.png" />
+    <Resource Include="assets\dialog_close.png" />
+    <Resource Include="assets\dialog_footer.png" />
+    <Resource Include="assets\dialog_header.png" />
+    <Content Include="assets\driveChain.png" />
+    <Resource Include="assets\file.png" />
+    <Resource Include="assets\icons\lower.png" />
+    <Resource Include="assets\hotStandby.png" />
+    <Content Include="assets\icons\pencil.png" />
+    <Resource Include="assets\icons\up.png" />
+    <Content Include="assets\jumpbutton.png" />
+    <Content Include="assets\line_circle1.png" />
+    <Content Include="assets\line_cycle_bg.png" />
+    <Content Include="assets\live.png" />
+    <Content Include="assets\live1.png" />
+    <Content Include="assets\login_bg.png" />
+    <Content Include="assets\login_button.png" />
+    <Content Include="assets\main-stop.png" />
+    <Resource Include="assets\main-stop1.png" />
+    <Content Include="assets\main-stop2.png" />
+    <Content Include="assets\main.gif" />
+    <Resource Include="assets\menu_button_bg.png" />
+    <Resource Include="assets\menu_child_button_bg.png" />
+    <Resource Include="assets\panBG.png" />
+    <Resource Include="assets\panel_bg1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="assets\plc.gif" />
+    <Resource Include="assets\plc_circle1.png" />
+    <Resource Include="assets\plc_circle2.png" />
+    <Content Include="assets\plc_no.gif" />
+    <Content Include="assets\plc_ok.gif" />
+    <Content Include="assets\plc_ok1.gif" />
+    <Content Include="assets\plc_on.gif" />
+    <Content Include="assets\production.png" />
+    <Content Include="assets\right_panel_border.png" />
+    <Content Include="assets\standby.png" />
+    <Resource Include="assets\states.png" />
+    <Resource Include="assets\tabs1.png" />
+    <Resource Include="assets\tabs2.png" />
+    <Resource Include="assets\tabs3.png" />
+    <Resource Include="assets\tabs4.png" />
+    <Resource Include="assets\tab_alarm1.png" />
+    <Resource Include="assets\tab_alarm2.png" />
+    <Resource Include="assets\tab_header.png" />
+    <Resource Include="assets\state_abnormal.png" />
+    <Resource Include="assets\state_normal.png" />
+    <Content Include="assets\temp\change.png" />
+    <Content Include="assets\temp\daytime.png" />
+    <Content Include="assets\temp\device.png" />
+    <Content Include="assets\temp\good.png" />
+    <Content Include="assets\temp\live_states.png" />
+    <Content Include="assets\temp\pgk.png" />
+    <Content Include="assets\temp\temp_pic1.png" />
+    <Content Include="assets\temp\temp_pic2.png" />
+    <Content Include="assets\temp\temp_pic3.gif" />
+    <Content Include="assets\temp\time.png" />
+    <Content Include="assets\temp\time1.png" />
+    <Content Include="assets\temp\time_bg.png" />
+    <Content Include="assets\workcalendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\icons\vssver2.scc" />
+    <None Include="assets\temp\vssver2.scc" />
+    <None Include="assets\vssver2.scc" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TDCommon\TDCommon.csproj">
+      <Project>{592f3185-03b3-449a-998e-8582bbe4c356}</Project>
+      <Name>TDCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TDModel\TDModel.csproj">
+      <Project>{DBF75BEC-0FF5-4866-8830-F8ADC6AE9EF4}</Project>
+      <Name>TDModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ProgressBarControl.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>此项目引用这台计算机上缺少的 NuGet 程序包。使用 NuGet 程序包还原可下载这些程序包。有关详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\NUnit.3.11.0\build\NUnit.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\NUnit.3.11.0\build\NUnit.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
